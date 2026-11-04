@@ -96,6 +96,5 @@ def main():
             print(f"{inicio} -> {vertice} = {distancia}")
 
 
-if __name__ == "__main__":
-    main()
+
 
