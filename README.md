@@ -1,2 +1,2 @@
 # Exercicios-de-algoritmos-em-grafos
-Alguns exercicios praticados em sala de aula
+Exercícios práticos de algoritmos e estruturas de grafos em Python.
